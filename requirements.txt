@@ -4,3 +4,4 @@ langchain
 faiss-cpu
 rank-bm25
 numpy
+langchain_community
