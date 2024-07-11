@@ -1,0 +1,6 @@
+streamlit
+pickle-mixin
+langchain
+faiss-cpu
+rank-bm25
+numpy
